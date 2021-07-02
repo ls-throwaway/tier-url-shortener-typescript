@@ -1,6 +1,6 @@
 # **Tier URL Shortener** 🛴
 
-Live demo [here](https://tier-url-shortener.netlify.app/).
+Live demo [here](https://tier-url-shortener.netlify.app/). If you want to check the original commits, access to the original (private) repo can be requested to lorenzosignoretti[at]gmail[dot]com.
 
 ## Notes and assumptions
 
